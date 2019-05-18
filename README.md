@@ -22,8 +22,12 @@ To run the project you will need:
 
  
 ## architecture
+
+Version A Architecture
 ![VersionA Architecture](https://github.com/sarahmfrost/compostnet/blob/master/figures/VersionA_Architecture.png)
 
+
+Version B Architecture
 ![VersionB Architecture](https://github.com/sarahmfrost/compostnet/blob/master/figures/VersionB_Architecture.png)
 
 
@@ -32,12 +36,14 @@ To run the project you will need:
 
 ## Results
 
-
+Version A Accuracy and Results
 ![VersionA Accuracy](https://github.com/sarahmfrost/compostnet/blob/master/figures/VersionA_Accuracy.png)
 ![Results](https://github.com/sarahmfrost/compostnet/blob/master/figures/Results1.png)
 ![More Results](https://github.com/sarahmfrost/compostnet/blob/master/figures/Results1.png)
 
-![VersionB Accuracy](https://github.com/sarahmfrost/compostnet/blob/master/figures/versionB_Accuracy.png)
+Version B Accuracy
+
+![VersionBAccuracy](https://github.com/sarahmfrost/compostnet/blob/master/figures/versionB_Accuracy.png)
 
 ## Deployment
 
