@@ -11,7 +11,7 @@ It can be confusing to know what pieces of waste go in which bin. Many businesse
 
 #### Table of Contents
 * [Installation](#installation)
-* [Running](#running)
+* [Running](#architecture)
 * [Results](#results)
 * [Deployment](#Deployment)
 * [Credits](#credits)
@@ -21,13 +21,23 @@ It can be confusing to know what pieces of waste go in which bin. Many businesse
 To run the project you will need:
 
  
-## Running
-Once you have all the depenedencies ready, do the folowing:
+## architecture
+![VersionA Architecture](https://github.com/sarahmfrost/compostnet/blob/master/figures/VersionA_Architecture.png)
+
+![VersionB Architecture](https://github.com/sarahmfrost/compostnet/blob/master/figures/VersionB_Architecture.png)
+
+
 
 
 
 ## Results
 
+
+![VersionA Accuracy](https://github.com/sarahmfrost/compostnet/blob/master/figures/VersionA_Accuracy.png)
+![Results](https://github.com/sarahmfrost/compostnet/blob/master/figures/Results1.png)
+![More Results](https://github.com/sarahmfrost/compostnet/blob/master/figures/Results1.png)
+
+![VersionB Accuracy](https://github.com/sarahmfrost/compostnet/blob/master/figures/versionB_Accuracy.png)
 
 ## Deployment
 
