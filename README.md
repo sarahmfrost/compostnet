@@ -56,7 +56,6 @@ Version B Accuracy
 
 ## Credits
 
-TrashNet - Gary Thung and Mindy Yang
-https://github.com/garythung/trashnet
+![TrashNet](https://github.com/garythung/trashnet) - Gary Thung and Mindy Yang
 
 
