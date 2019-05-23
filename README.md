@@ -3,6 +3,10 @@ Sarah Frost, Bryan Tor, Rakshit Agrawal, Angus G. Forbes
 
 [Link to our paper](https://github.com/sarahmfrost/compostnet/blob/master/CompostNet.pdf)
 
+Note: Code upload in progress - will be completed by May 27.
+
+
+
 # Overview of Project:
 ![WasteBins](https://github.com/sarahmfrost/compostnet/blob/master/figures/WasteBins.png)
 
