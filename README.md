@@ -18,7 +18,7 @@ It can be confusing to know what pieces of waste go in which bin. Many businesse
 Dataset: 
 We took the dataset developed for [TrashNet](https://github.com/garythung/trashnet) and added a class: compost. 
 
-We added x photos to the compost class, and added x photos to the trash class. We followed the data collecting methods outlined in Trashnet. We resized our images to 400×300 pixels for the Version B model. The Version A model required images to be resized to 224 × 224 pixels.
+We added 175 photos to the compost class, and added 49 photos to the trash class. We followed the data collecting methods outlined in Trashnet. We resized our images to 400×300 pixels. In the code for our Version A model, we resize the images to 224 × 224 pixels.
 
 [Our Dataset for Version A](https://drive.google.com/drive/folders/1HFouUVZ-bEEi0x_N89cFX0fEBs560STu?usp=sharing)
 
