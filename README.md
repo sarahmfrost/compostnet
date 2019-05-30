@@ -31,10 +31,20 @@ Our dataset was too large to upload to github, all data can be found on Google D
 
 Version A:
 
-Folders: android, ios, scripts, tf_file 
+You will need
+Python 3.5
 
-For retrain file, change the image_dir path to the path with the training data 
-to test run the second set of code with an image path from the testing data 
+
+Tensorflow
+pip install --upgrade "tensorflow==1.7.*"
+
+
+
+Folders: android, ios, scripts, tf_file 
+Dowload these folders and move them into the same directory
+
+to retrain, change the image_dir path to the path with the training data in commands.txt
+to test run the second set of code with an image path from the testing data in commands.txt
 
 
 
