@@ -63,6 +63,8 @@ Version B Accuracy
 
 ## Deployment
 
+We are in the process of building a mobile app for deploying this solution.
+
 ## Credits
 
 [TrashNet](https://github.com/garythung/trashnet) - Gary Thung and Mindy Yang
