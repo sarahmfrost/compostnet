@@ -40,7 +40,8 @@ pip install --upgrade "tensorflow==1.7.*"
 
 
 
-Folders: android, ios, scripts, tf_file 
+Folders: scripts, tf_file (on google drive) 
+
 Dowload these folders and move them into the same directory
 
 to retrain, change the image_dir path to the path with the training data in commands.txt
