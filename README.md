@@ -20,6 +20,8 @@ We took the dataset developed for [TrashNet](https://github.com/garythung/trashn
 
 We added 175 photos to the compost class, and added 49 photos to the trash class. We followed the data collecting methods outlined in Trashnet. We resized our images to 400×300 pixels. In the code for our Version A model, we resize the images to 224 × 224 pixels.
 
+Our dataset was too large to upload to github, all data can be found on Google Drive.
+
 [Our Dataset for Version A](https://drive.google.com/drive/folders/1HFouUVZ-bEEi0x_N89cFX0fEBs560STu?usp=sharing)
 
 [Our Dataset for Version B](https://drive.google.com/drive/folders/1lj5JMvcZqV_S7oOou6uWi7ElXWy_pGc5?usp=sharing)
