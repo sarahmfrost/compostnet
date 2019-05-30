@@ -1,6 +1,4 @@
-python -m scripts.retrain --bottleneck_dir=tf_files/bottlenecks --how_many_training_steps=4000 --model_dir=tf_files/models/ --summaries_dir=tf_files/training_summaries/"mobilenet_0.50_224" --output_graph=tf_files/retrained_graph.pb --output_labels=tf_files/retrained_labels.txt --architecture="mobilenet_0.50_224" --image_dir=../../Downloads/wikiart/wikiart
+python -m scripts.retrain --bottleneck_dir=tf_files/bottlenecks --how_many_training_steps=4000 --model_dir=tf_files/models/ --summaries_dir=tf_files/training_summaries/"mobilenet_0.50_224" --output_graph=tf_files/retrained_graph.pb --output_labels=tf_files/retrained_labels.txt --architecture="mobilenet_0.50_224" --image_dir=
 
 
-python -m scripts.label_image --graph=tf_files/retrained_graph.pb --image=../../Downloads/wikiart/artist/Pablo_Picasso/pablo-picasso_a-bank-of-canal-1905.jpg
-
-python -m scripts.label_image --graph=tf_files/retrained_graph.pb --image=../../Downloads/wikiart/style/Cubism/adolf-fleischmann_hommage-delaunay-et-gleizes-1938.jpg
+python -m scripts.label_image --graph=tf_files/retrained_graph.pb --image=
