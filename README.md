@@ -15,11 +15,21 @@ It can be confusing to know what pieces of waste go in which bin. Many businesse
 
 ## Installation
 
-[Dataset for Version A](https://drive.google.com/drive/folders/1HFouUVZ-bEEi0x_N89cFX0fEBs560STu?usp=sharing)
-[Dataset for Version B](https://drive.google.com/drive/folders/1lj5JMvcZqV_S7oOou6uWi7ElXWy_pGc5?usp=sharing)
+Dataset: 
+We took the dataset developed for [TrashNet](https://github.com/garythung/trashnet) and added a class: compost. 
+
+We added x photos to the compost class, and added x photos to the trash class. We followed the data collecting methods outlined in Trashnet. We resized our images to 400×300 pixels for the Version B model. The Version A model required images to be resized to 224 × 224 pixels.
+
+[Our Dataset for Version A](https://drive.google.com/drive/folders/1HFouUVZ-bEEi0x_N89cFX0fEBs560STu?usp=sharing)
+
+[Our Dataset for Version B](https://drive.google.com/drive/folders/1lj5JMvcZqV_S7oOou6uWi7ElXWy_pGc5?usp=sharing)
 
 
+Code 
 
+Version A we ...
+
+Version B we built and ran in a google colab notebook, which can be found in this repo. 
 
  
 ## architecture
