@@ -3,7 +3,7 @@ Sarah Frost, Bryan Tor, Rakshit Agrawal, Angus G. Forbes
 
 [Link to our paper](https://github.com/sarahmfrost/compostnet/blob/master/CompostNet.pdf)
 
-Note: Code upload in progress - will be completed by May 27.
+
 
 
 
@@ -15,7 +15,11 @@ It can be confusing to know what pieces of waste go in which bin. Many businesse
 
 ## Installation
 
-To run the project you will need:
+[Dataset for Version A](https://drive.google.com/drive/folders/1HFouUVZ-bEEi0x_N89cFX0fEBs560STu?usp=sharing)
+[Dataset for Version B](https://drive.google.com/drive/folders/1lj5JMvcZqV_S7oOou6uWi7ElXWy_pGc5?usp=sharing)
+
+
+
 
  
 ## architecture
