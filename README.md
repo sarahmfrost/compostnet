@@ -16,7 +16,7 @@ It can be confusing to know what pieces of waste go in which bin. Many businesse
 ## Installation
 
 **Dataset:**
-We took the dataset developed for [TrashNet](https://github.com/garythung/trashnet) and added a class: compost. 
+We took the dataset built by Gary Thung and Mindy Yang for [TrashNet](https://github.com/garythung/trashnet) and added a compost class. 
 
 We added 175 photos to the compost class, and added 49 photos to the trash class. We followed the data collecting methods outlined in Trashnet. We resized our images to 400×300 pixels. In the code for our Version A model, we resize the images to 224 × 224 pixels.
 
@@ -27,9 +27,14 @@ Our dataset was too large to upload to github, all data can be found on Google D
 [Our Dataset for Version B](https://drive.google.com/drive/folders/1lj5JMvcZqV_S7oOou6uWi7ElXWy_pGc5?usp=sharing)
 
 
-**Code** 
+**Code:** 
 
-Version A we 
+Version A:
+
+Folders: android, ios, scripts, tf_file 
+
+For retrain file, change the image_dir path to the path with the training data 
+to test run the second set of code with an image path from the testing data 
 
 
 
