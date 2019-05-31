@@ -31,13 +31,14 @@ Our dataset was too large to upload to github, all data can be found on Google D
 
 Version A:
 
-You will need
+You will need:
+
 Python 3.5
 
-
 Tensorflow
+```
 pip install --upgrade "tensorflow==1.7.*"
-
+```
 
 
 Folders: scripts, tf_file (on google drive) 
