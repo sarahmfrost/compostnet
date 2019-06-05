@@ -4,9 +4,6 @@ Sarah Frost, Bryan Tor, Rakshit Agrawal, Angus G. Forbes
 [Link to our paper](https://github.com/sarahmfrost/compostnet/blob/master/CompostNet.pdf)
 
 
-
-
-
 # Overview of Project:
 ![WasteBins](https://github.com/sarahmfrost/compostnet/blob/master/figures/WasteBins.png)
 
@@ -36,25 +33,22 @@ You will need:
 Python 3.5
 
 Tensorflow
+
 ```
 pip install --upgrade "tensorflow==1.7.*"
 ```
-
 
 Folders: scripts, tf_file (on google drive) 
 
 Dowload these folders and move them into the same directory
 
-to retrain, change the image_dir path to the path with the training data in commands.txt
+To retrain, change the image_dir path to the path with the training data in commands.txt
 to test run the second set of code with an image path from the testing data in commands.txt
 
+Version B we built and ran our code in Google Colab, which can be found in this repo. You can access the notebook with Google Colab or the Jupyter notebook environment.
 
 
-
-Version B we built and ran code in a google colab notebook, which can be found in this repo. 
-
- 
-## architecture
+## Architecture
 
 Version A Architecture
 
@@ -64,9 +58,6 @@ Version A Architecture
 Version B Architecture
 
 ![VersionB Architecture](https://github.com/sarahmfrost/compostnet/blob/master/figures/VersionB_Architecture.png)
-
-
-
 
 
 ## Results
@@ -81,9 +72,11 @@ Version B Accuracy
 
 ![VersionBAccuracy](https://github.com/sarahmfrost/compostnet/blob/master/figures/versionB_Accuracy.png)
 
+
 ## Deployment
 
 We are in the process of building a mobile app for deploying this solution.
+
 
 ## Credits
 
