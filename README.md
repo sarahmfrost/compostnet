@@ -1,7 +1,7 @@
 # compostnet
 Sarah Frost, Bryan Tor, Rakshit Agrawal, Angus G. Forbes
 
-[Link to our paper](https://github.com/sarahmfrost/compostnet/blob/master/CompostNet.pdf)
+[Link to our paper](https://github.com/sarahmfrost/compostnet/blob/master/2019_Frost_CompostNet_GHTC.pdf)
 
 
 # Overview of Project:
